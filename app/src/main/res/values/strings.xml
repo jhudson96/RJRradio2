@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RJR Radio</string>
+    <string name="settings">Settings</string>
+    <string name="contact">Contact</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="stations">Stations</string>
+
+    <string	name="tab_label1">Station</string>
+    <string	name="tab_label2">Favourites</string>
+    <string name="favourites">Favourites</string>
+
+</resources>
